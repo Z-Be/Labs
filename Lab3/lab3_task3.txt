@@ -1,0 +1,10 @@
+Lab 3 task 3 Algorithm
+Zach Becka
+
+1. Insert all appropriate header files
+2. Declare all variables needed
+3. Initialize inFile and outFile with appropriate names
+4. Get all information from inFile
+5. Declare and calculate additional variables needed for output
+6. Write all information to outFile
+7. Close in/outFile

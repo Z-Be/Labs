@@ -1,0 +1,9 @@
+Lab 3 Task 1 Aglorithm
+Zach Becka
+
+1. Insert all necessary file headers
+2. Declare all variables
+3. Prompt user for input
+4. Get user input
+5. Calculate data (1kg = 2.2 lb)
+5. Display output to user

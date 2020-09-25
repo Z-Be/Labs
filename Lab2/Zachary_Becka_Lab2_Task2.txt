@@ -1,0 +1,8 @@
+Lab 2 Task 2 Algorithm	
+Zachary Becka
+
+1. Initialize all variables needed to solve problem	
+2. Prompt user to insert scores for each test
+3. Subsequently recieve user input for those scores
+4. Compute average by adding all scores and dividing by number of scores (4 in this case)
+5. Display average score to user

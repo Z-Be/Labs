@@ -1,0 +1,3 @@
+new annual salary 43040.00
+new monthly salary 3586.67
+retroactive salary due: 1520.00

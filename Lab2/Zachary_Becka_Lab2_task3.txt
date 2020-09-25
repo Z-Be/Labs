@@ -1,0 +1,10 @@
+Lab 3 Task 3 Algorithm
+Zach Becka
+
+1. Initialize all variables needed to solve the problem
+2. Prompt the user to enter the number of milk produced
+3. Take that number and calculate the amount of milk cartons needed to hold that milk
+4. Cast the decimal to an int
+5. Calculate the cost of producing that many cartons
+6. Caluclate the profit from that production
+7. Display both amounts to user

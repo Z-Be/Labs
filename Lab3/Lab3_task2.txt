@@ -1,0 +1,12 @@
+Lab 3 Task 2 Algorithm
+Zach Becka
+
+1. Include all necessary file headers
+2. Declare all variables needed
+3. Prompt user for input
+4. Get input from user
+5. Calculate necessary variables (new annual, monthly, retro salary)
+6. Display all values to user
+7. Create and open output file
+8. Write output to file
+9. Close output file
